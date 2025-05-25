@@ -1,5 +1,3 @@
-# cgpa-calculator-gui
-
 # Grade Calculation Tool
 
 A desktop application built with Python and Tkinter for calculating student grades, GPA, and CGPA. This tool allows students and educators to input course information and automatically calculate cumulative grade point averages.
